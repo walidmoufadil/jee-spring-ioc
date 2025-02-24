@@ -15,7 +15,7 @@ Ce projet démontre l'utilisation du framework Spring pour l'injection de dépen
 
 ---
 
-## Structure du projet
+## Diagramme de classe
 
 ![diagramme de classe](images/class_diagram.png)
 ---
