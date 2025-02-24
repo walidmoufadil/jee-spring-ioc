@@ -17,6 +17,10 @@ Ce projet démontre l'utilisation du framework Spring pour l'injection de dépen
 
 ## Structure du projet
 
+![diagramme de classe](images/class_diagram.png)
+---
+## Structure du projet
+
 - `src/main/java/`
     - `dao/` : Contient l'interface `IDao` et son implémentation.
     - `metier/` : Contient l'interface `IMetier` et son implémentation avec couplage faible.
