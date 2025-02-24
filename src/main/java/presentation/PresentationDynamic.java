@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Instanciation dynamique via un fichier .txt
  **/
 
-public class PresentationV2 {
+public class PresentationDynamic {
     public static void main(String[] args) {
         try {
             Scanner sc = new Scanner(new File("config.txt"));

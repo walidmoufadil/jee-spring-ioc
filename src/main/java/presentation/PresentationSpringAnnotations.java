@@ -8,7 +8,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  * Instanciation dynamique version Annotation en utilisant Spring
  **/
 
-public class PresentationV4 {
+public class PresentationSpringAnnotations {
     public static void main(String[] args) {
         ApplicationContext context = new AnnotationConfigApplicationContext("dao","metier");
         IMetier metier = (IMetier) context.getBean("metier");
